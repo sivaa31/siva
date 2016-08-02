@@ -22,7 +22,7 @@ int main(void) {
 		if(hash[i]==1)
 		cout++;
 	}
-	if(cout==26)
+	if(cout>=26)
 	printf("Panagram\n");
 	else
 	printf("Not Panagram\n");
